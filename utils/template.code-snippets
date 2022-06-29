@@ -1,0 +1,22 @@
+{
+	"Lab Template": {
+		"prefix": ["gogogo"],
+		"body": [
+			"/*",
+			"Name: Wong Kok Rui",
+			"Student Number: A0174107L",
+			"*/\n",
+			"/*\nPseudocode:\n\n",
+			"*/",
+			"import java.io.BufferedReader;",
+			"import java.io.InputStreamReader;",
+			"import java.util.*;",
+			"public class $TM_FILENAME_BASE {",
+			"\tpublic static void main(String[] args) throws Exception {",
+			"\t\tBufferedReader br = new BufferedReader(new InputStreamReader(System.in));",
+			"\t\tScanner s = new Scanner(System.in);",
+			"\t}",
+			"}"
+		]
+	}
+}
